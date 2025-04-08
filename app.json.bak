@@ -1,0 +1,32 @@
+{
+  "id": "x",
+  "name": "<Company Name>",
+  "publisher": "Innovia Consulting",
+  "version": "25.0.0.0",
+  "brief": "",
+  "description": "<Company Name> Innovia Extensions",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.innovia.com",
+  "logo": "InnoviaLogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
